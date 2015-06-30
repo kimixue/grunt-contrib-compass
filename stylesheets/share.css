@@ -1,0 +1,35 @@
+@charset "utf-8";
+.icon, .share-women5, .share-young4, .share-young5, .share-young6, .share-young7 {
+  background-image: url('../images/share-s5c02077b3c.png');
+  background-repeat: no-repeat;
+}
+
+.share-women5 {
+  background-position: -5px 0;
+  height: 512px;
+  width: 512px;
+}
+
+.share-young4 {
+  background-position: -5px -512px;
+  height: 512px;
+  width: 512px;
+}
+
+.share-young5 {
+  background-position: -5px -1024px;
+  height: 512px;
+  width: 512px;
+}
+
+.share-young6 {
+  background-position: -5px -1536px;
+  height: 512px;
+  width: 512px;
+}
+
+.share-young7 {
+  background-position: -5px -2048px;
+  height: 512px;
+  width: 512px;
+}
