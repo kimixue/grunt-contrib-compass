@@ -1,0 +1,35 @@
+@charset "utf-8";
+.icon, .icon-women5, .icon-young4, .icon-young5, .icon-young6, .icon-young7 {
+  background-image: url('../images/icon-scb971cd971.png');
+  background-repeat: no-repeat;
+}
+
+.icon-women5 {
+  background-position: -5px 0;
+  height: 512px;
+  width: 512px;
+}
+
+.icon-young4 {
+  background-position: -5px -517px;
+  height: 512px;
+  width: 512px;
+}
+
+.icon-young5 {
+  background-position: -5px -1034px;
+  height: 512px;
+  width: 512px;
+}
+
+.icon-young6 {
+  background-position: -5px -1551px;
+  height: 512px;
+  width: 512px;
+}
+
+.icon-young7 {
+  background-position: -5px -2068px;
+  height: 512px;
+  width: 512px;
+}

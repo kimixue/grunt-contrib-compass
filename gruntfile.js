@@ -4,9 +4,9 @@ module.exports = function(grunt) {
     connect:{
       //这里为插件子刷新方式
       options: {
-        port: 9000,
+        port: 8080,
         hostname: 'localhost', //默认就是这个值，可配置为本机某个 IP，localhost 或域名
-        livereload: 35729  //声明给 watch 监听的端口
+        livereload: 35730  //声明给 watch 监听的端口
       },
       server: {
         options: {
